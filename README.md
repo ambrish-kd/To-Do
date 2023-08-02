@@ -18,7 +18,8 @@ A simple and elegant Todo List web app with local storage. The app allows users 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-08-02 232707](https://github.com/ambrish-kd/To-Do/assets/90711457/64ff730c-1ee9-42fb-b49e-6f19a506b8f5)
+
 
 
 ## Tech Stack
